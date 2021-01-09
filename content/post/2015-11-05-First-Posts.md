@@ -8,6 +8,6 @@ jekyII Now でgithubからマークダウンで投稿をしています。
 
 <!--more-->
 
-![_config.yml](/img/pen-small.jpg)
+![記事](/images/pen-small.jpg)
 
 これからこちらで投稿をしていきたいと思います。
